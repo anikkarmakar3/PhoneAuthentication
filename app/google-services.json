@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "352174197228",
+    "project_id": "phoneauthentication-40747",
+    "storage_bucket": "phoneauthentication-40747.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:352174197228:android:bc0d9c1dc1dcb8010e98c9",
+        "android_client_info": {
+          "package_name": "com.lock.phoneauthentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "352174197228-dh97cn2dooeqi123vnfep29lurpq7f6c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_FYr8ViDOiEG0tlobpazUR5rJWLGP5os"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "352174197228-dh97cn2dooeqi123vnfep29lurpq7f6c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
