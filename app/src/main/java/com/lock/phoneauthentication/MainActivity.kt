@@ -49,7 +49,9 @@ class MainActivity : AppCompatActivity() {
             }
 
             override fun onVerificationFailed(e: FirebaseException) {
-                Toast.makeText(applicationContext, "Failed", Toast.LENGTH_LONG).show()
+                Log.d("TAG", "onVerificationFailed", e)
+                startActivity(Intent(applicationContext, VerifyActivity::class.java))
+                /*Toast.makeText(applicationContext, "Failed", Toast.LENGTH_LONG).show()*/
             }
 
             override fun onCodeSent(
@@ -92,4 +94,3 @@ class MainActivity : AppCompatActivity() {
     }
 
     }
-}

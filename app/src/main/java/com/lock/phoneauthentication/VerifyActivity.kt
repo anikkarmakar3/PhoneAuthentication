@@ -54,4 +54,3 @@ class VerifyActivity : AppCompatActivity() {
             }
     }
     }
-}

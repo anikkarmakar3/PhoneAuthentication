@@ -14,6 +14,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "352174197228-dvomsqgh6k257m4mgv4n0dk4thn43v7l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lock.phoneauthentication",
+            "certificate_hash": "e1883af88f09b8807ce6e42e1775985b777a8d1d"
+          }
+        },
+        {
           "client_id": "352174197228-dh97cn2dooeqi123vnfep29lurpq7f6c.apps.googleusercontent.com",
           "client_type": 3
         }
